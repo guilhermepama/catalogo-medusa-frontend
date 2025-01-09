@@ -84,7 +84,7 @@ Use Yarn to install all dependencies.
 yarn
 ```
 
-### Start developing
+### Start developing.
 
 You are now ready to start up your project.
 
